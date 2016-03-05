@@ -1,0 +1,8 @@
+name: Ranks
+version: 1.0
+main: me.nodebuff.core.Ranks
+author: CheeseNips
+description: custom enchants
+commands:
+ Ranks:
+  description: cc command
